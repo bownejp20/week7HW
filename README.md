@@ -1,2 +1,2 @@
 # week7HW
-make a videogame class
+Made a class for the video game Untitled Goose. It consists of a constructor with 4 properties and 3 methods. This minor project has helped me develop my skills in building out a class and understanding parts of encapsulation better.
